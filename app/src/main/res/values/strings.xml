@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="intro">My name is Leslie Pedro and I am graduating in December!</string>
+    <string name="dialog_msg">Hello there!</string>
+    <string name="dialog_ttl">A Dialog</string>
+    <string name="ok">OK!</string>
+    <string name="cancel">Cancel</string>
+</resources>
