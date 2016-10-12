@@ -19,7 +19,8 @@
         <activity android:name=".ImgButtonActivity" />
         <activity android:name=".WebButtonActivity" />
         <activity android:name=".ToastButtonActivity" />
-        <activity android:name=".DialogButtonActivity"></activity>
+        <activity android:name=".DialogButtonActivity" />
+        <activity android:name=".AndrewBranchActivity"></activity>
     </application>
 
 </manifest>
