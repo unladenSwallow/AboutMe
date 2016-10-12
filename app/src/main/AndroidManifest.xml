@@ -20,8 +20,7 @@
         <activity android:name=".WebButtonActivity" />
         <activity android:name=".ToastButtonActivity" />
         <activity android:name=".DialogButtonActivity" />
-        <activity android:name=".EthansActivity">
-        <activity android:name=".AndrewBranchActivity"></activity>
+        <activity android:name=".EthansActivity"></activity>
     </application>
 
 </manifest>
